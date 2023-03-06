@@ -1,0 +1,4 @@
+# Created at 2023-02-26T21:07:40.928
+Boot Manifest-JAR contains absolute paths in classpath 'D:\devops training vedios\applications and files\calculator\my-assignment\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
